@@ -31,10 +31,10 @@ phases:
       name: Rollout Deployment
     stepsInParallel: false
   - type: K8S_PHASE_STEP
-    name: Verify
+    name: test
     stepsInParallel: false
   - type: K8S_PHASE_STEP
-    name: test
+    name: Verify
     stepsInParallel: false
   - type: K8S_PHASE_STEP
     name: Wrap Up
