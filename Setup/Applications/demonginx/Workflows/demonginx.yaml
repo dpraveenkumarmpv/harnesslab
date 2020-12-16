@@ -34,10 +34,10 @@ phases:
     name: Verify
     stepsInParallel: false
   - type: K8S_PHASE_STEP
-    name: Wrap Up
+    name: test
     stepsInParallel: false
   - type: K8S_PHASE_STEP
-    name: test
+    name: Wrap Up
     stepsInParallel: false
   provisionNodes: false
   serviceName: demonginx
