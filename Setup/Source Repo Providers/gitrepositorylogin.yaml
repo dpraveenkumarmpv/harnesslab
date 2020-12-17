@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:kr5LVRutR0arq_JAh-wqjw
+url: https://github.com/dpraveenkumarmpv/harnesslab.git
+urlType: REPO
+username: dpraveenkumarmpv
