@@ -1,5 +1,5 @@
 harnessApiVersion: '1.0'
 type: DOCKER
 password: safeharness:HL3fitvSRB-953HPzF-pRQ
-url: https://hub.docker.com/repositories/
+url: https://hub.docker.com/
 username: dpraveenkumarmpv
